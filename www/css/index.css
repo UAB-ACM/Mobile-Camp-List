@@ -1,0 +1,11 @@
+.received {
+    display: none;
+}
+
+#message-box {
+	width: 100%;
+}
+
+body {
+	margin-top: 60px;
+}
